@@ -4,8 +4,9 @@ HOLA AQUI ENCONTRARAS MI INFORMACION RELEVANTE
 
 A continuacion se presentan los modulos de interes.
 
-***
-![Mi foto de perfil](https://avatars.githubusercontent.com/u/1234294)
+
+
+<img src="https://avatars.githubusercontent.com/u/1234294" width="200" height="200">
 
 ## Modulos
 |-|
